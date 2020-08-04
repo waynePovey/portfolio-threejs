@@ -1,4 +1,4 @@
-# portfolio-threejs
+# vue-bigshop-app
 
 ## Project setup
 ```
